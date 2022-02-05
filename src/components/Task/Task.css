@@ -1,0 +1,15 @@
+.task {
+    display: flex;
+    align-items: left;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: black;
+
+    border: 1px red solid;
+    padding: 5px;
+}
+
+.add-task-input-form {
+    /*  */
+}
